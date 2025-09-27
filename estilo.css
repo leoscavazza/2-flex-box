@@ -33,8 +33,7 @@ h1 {
     margin: auto;
 }
 
-/* Insira o código abaixo */
-
+/* Exercícios A */
 .container1 {
     display: flex;
     justify-content: flex-start;
@@ -65,11 +64,13 @@ h1 {
     justify-content: space-evenly;
 }
 
+/* Exercícios B */
 .container_exerciciob {
     display: flex;
     flex-direction: column-reverse;
 }
 
+/* Desafio */
 .container-desafio {
     display: flex;
     flex-direction: row-reverse;
